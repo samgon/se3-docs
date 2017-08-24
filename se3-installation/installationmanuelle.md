@@ -440,7 +440,7 @@ La réinstallation se passe en 3 étapes :
  ```
  Cette ligne crée le dossier /var/lib/samba s'il n'existe pas et y copie (de force!) le fichier secrets.tdb de l'ancien serveur en lui attribuant les bons droits.
  
-On installe en suite SE3 avec le script
+On installe ensuite SE3 avec le script
 ```sh
 ./install_phase2.sh
 ```
